@@ -18,7 +18,7 @@ stored.
 P
 ## PROGRAM - ARP
 Name : Jeevanandam m
-register no : 212222220017
+Register no : 212222220017
 ### Client Side
 ```python
 import socket
